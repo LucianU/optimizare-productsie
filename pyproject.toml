@@ -1,7 +1,7 @@
 [tool.poetry]
-name = "optimizare-norofert"
+name = "optimizare-productsie"
 version = "0.1.0"
-description = "Demo pentru Norofert."
+description = "Demo care folosește programare liniară pentru alocarea optimă a resurselor."
 authors = ["Lucian Ursu <lucian.ursu@gmail.com>"]
 readme = "README.md"
 
