@@ -11,6 +11,8 @@ inspirate din portofoliul Norofert:
 - 🌿 Naturamin
 - 🌱 Karbo
 
+O poți accesa la: https://optimizare-resurse.streamlit.app
+
 ---
 
 ## 🎯 Ce face aplicația
